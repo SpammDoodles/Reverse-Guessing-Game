@@ -5,7 +5,7 @@
 The Reverse Guessing Game flips the classic guessing concept — you secretly choose a number between 1 and 100, and the computer tries to figure it out.
 It guesses smartly by narrowing the range, but still adds randomness to keep each run unpredictable and fun.
 
-# This project is perfect for:
+ This project is perfect for:
 ```
 
 - practicing Python basics
