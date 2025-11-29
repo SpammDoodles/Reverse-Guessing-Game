@@ -7,7 +7,6 @@ It guesses smartly by narrowing the range, but still adds randomness to keep eac
 
  This project is perfect for:
 ```
-
 - practicing Python basics
 - learning loops & functions
 - understanding range narrowing logic
